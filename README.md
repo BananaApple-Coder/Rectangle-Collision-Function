@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Rectangle Collision Function
+A function that detects rectangle collisions.
